@@ -89,12 +89,22 @@ retail_demand_forecast/
 ## ⚠️ Hinweise
 
 - Die **Streamlit-App ist zeitbedingt sehr minimalistisch gehalten**, aber grundsätzlich funktional.
-- Die **Notebooks** enthalten teilweise Code, der schöner aufgeräumt werden könnte (ebenfalls Zeitgründe).
+- Die **Notebooks** enthalten teilweise Code, der schöner aufgeräumt werden könnte (ebenfalls Zeitgründe). Des weiteren wäre es notwendig die Features weiter zu bearbeiten, damit das Modell Ausreißer besser einfangen bzw. erkennen kann.
 - Große Dateien wurden **nicht ins Git-Repository aufgenommen**, sondern extern gespeichert.
 - MLflow-Tracking-Dateien sind der Übersichtlichkeit halber in dieser Version nicht enthalten, könnten nachgereicht oder selbst generiert werden.
+- Der Zeitraum der Modelle wurde auf ein Jahr erhöht, um saisonale Schwankungen besser berücksichtigen zu können.
 
 ---
 
 ## 📸 Screenshots
+
+### Streamlit-App
+<img width="400" height="auto" alt="Screenshot-streamlit-app" src="https://github.com/user-attachments/assets/81588650-f98a-4472-af3b-04a2c492a438" />
+
+### XGBoost-Modell-Plot
+<img width="300" height="auto" alt="forecast_XGB_12Months" src="https://github.com/user-attachments/assets/f11d87a8-85bf-4f1f-92b3-4b02cd9feed8" />
+
+### LSTM-Modell-Plot
+<img width="300" height="auto" alt="forecast_LSTM_12Months" src="https://github.com/user-attachments/assets/1a601092-6d4f-42b2-8ee3-cac6201020bc" />
 
 ---
