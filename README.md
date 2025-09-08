@@ -93,6 +93,7 @@ retail_demand_forecast/
 - Große Dateien wurden **nicht ins Git-Repository aufgenommen**, sondern extern gespeichert.
 - MLflow-Tracking-Dateien sind der Übersichtlichkeit halber in dieser Version nicht enthalten, könnten nachgereicht oder selbst generiert werden.
 - Der Zeitraum der Modelle wurde auf ein Jahr erhöht, um saisonale Schwankungen besser berücksichtigen zu können.
+- Die Präsentation fand im Rahmen der Live-Session statt: https://masterschool.zoom.us/rec/play/94lySMVfVYHIW0IwBf4-oncPfzCmVVdP7rnm7tGw7giTNEPRCTBRaMHCEIETmes6sR1gBWMzl3d7WCQV.BIOJRY33sYqAsh4k
 
 ---
 
